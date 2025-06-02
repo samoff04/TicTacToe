@@ -1,0 +1,104 @@
+* {
+  margin: 0; padding: 0; box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+body {
+  background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #a1c4fd, #c2e9fb);
+  background-size: 400% 400%;
+  animation: gradient 10s ease infinite;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+#dashboard, #game-board, #popup {
+  display: none;
+}
+.container {
+  text-align: center;
+  background: white;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  animation: fadeIn 1s ease;
+}
+h1, h2 {
+  font-size: 2rem;
+  color: #3f3f3f;
+  margin-bottom: 20px;
+}
+.btn {
+  padding: 12px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: #6a11cb;
+  color: white;
+}
+.btn:hover {
+  background: #2575fc;
+  transform: scale(1.05);
+}
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.cell {
+  width: 100px;
+  height: 100px;
+  font-size: 2.5rem;
+  border-radius: 10px;
+  background: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.cell:hover { background: #dcdcdc; }
+.popup {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.7);
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.popup-content {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  animation: scaleUp 0.5s ease;
+}
+.popup input {
+  padding: 10px;
+  margin: 10px;
+  width: 80%;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #aaa;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+@keyframes scaleUp {
+  from { transform: scale(0.8); opacity: 0;}
+  to { transform: scale(1); opacity: 1;}
+}
+.leave-btn {
+  margin-top: 20px;
+}
