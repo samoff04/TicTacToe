@@ -3,7 +3,7 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Game Screenshot]
 ![image](https://github.com/user-attachments/assets/0e29ae82-9cfa-4ad9-9664-4e93536c584a)
@@ -14,7 +14,7 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Modern UI with animated transitions
 - ✅ Emoji avatars for players (`😀` and `😎`)
@@ -31,7 +31,7 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tech         | Description                   |
 |--------------|-------------------------------|
@@ -44,7 +44,7 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 ---
 
 ---
-## 🧠 Future Improvements
+## Future Improvements
 
  **Add support for larger grids (4x4, 5x5, 6x6)**
 
@@ -60,7 +60,7 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Samarth Varshney**  
 Thank you for checking out this project! 😊
