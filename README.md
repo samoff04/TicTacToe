@@ -4,8 +4,6 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 ---
 
 ## Screenshot
-
-![Game Screenshot]
 ![image](https://github.com/user-attachments/assets/0e29ae82-9cfa-4ad9-9664-4e93536c584a)
 ![image](https://github.com/user-attachments/assets/d96f1df0-01b8-4ba4-9880-8ba5fae39599)
 ![image](https://github.com/user-attachments/assets/93ea628d-9306-469c-8169-be209ff130b6)
