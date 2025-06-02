@@ -1,6 +1,6 @@
-🎮 Tic Tac Toe - Advanced Edition
+Tic Tac Toe - Advanced Edition
 
-A beautifully animated and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Play solo against a moderate bot or enjoy a 2-player match with a friend — all from a clean, responsive interface with popups, emoji avatars, and smooth transitions.
+A beautifully animated and interactive **Tic Tac Toe** game which offers to play solo against a moderate bot or enjoy a 2-player match with a friend — all from a clean, responsive interface with popups, emoji avatars, and smooth transitions.
 
 ---
 
