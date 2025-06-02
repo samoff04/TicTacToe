@@ -45,19 +45,23 @@ A beautifully animated and interactive **Tic Tac Toe** game built using **HTML**
 ---
 
 ---
-🧠 Future Improvements
- Add support for larger grids (4x4, 5x5, 6x6)
+## 🧠 Future Improvements
 
- Implement difficulty levels for Bot
+ **Add support for larger grids (4x4, 5x5, 6x6)**
 
- Save game history and scores in LocalStorage
+ **Implement difficulty levels for Bot**
 
- Add sound toggle switch
+ **Save game history and scores in LocalStorage**
 
- Responsive mobile layout improvements
+ **Add sound toggle switch**
 
- Dark mode toggle
+ **Responsive mobile layout improvements**
 
- 
-👨‍🎨 Author
-Samarth Varshney
+ **Dark mode toggle**
+
+---
+
+## 👨‍💻 Author
+
+**Samarth Varshney**  
+Thank you for checking out this project! 😊
