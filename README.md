@@ -14,18 +14,18 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ## Features
 
-- ✅ Modern UI with animated transitions
-- ✅ Emoji avatars for players (`😀` and `😎`)
-- ✅ Two modes:
-  - 🔹 Player vs Player
-  - 🔹 Player vs Bot (Moderate difficulty)
-- ✅ Real-time turn indicator
-- ✅ Dynamic game board rendering
-- ✅ Pop-up inputs for name entry
-- ✅ Leave and Restart options
-- ✅ Smart Bot that tries to win or block you
-- ✅ Smooth user experience with responsive design
-- ✅ Friendly sound effects *(optional to activate)*
+-  Modern UI with animated transitions
+-  Emoji avatars for players (`😀` and `😎`)
+-  Two modes:
+  -  Player vs Player
+  -  Player vs Bot (Moderate difficulty)
+-  Real-time turn indicator
+-  Dynamic game board rendering
+-  Pop-up inputs for name entry
+-  Leave and Restart options
+-  Smart Bot that tries to win or block you
+-  Smooth user experience with responsive design
+-  Friendly sound effects *(optional to activate)*
 
 ---
 
@@ -41,7 +41,6 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ---
 
----
 ## Future Improvements
 
  **Add support for larger grids (4x4, 5x5, 6x6)**
