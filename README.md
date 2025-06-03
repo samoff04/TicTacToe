@@ -43,17 +43,17 @@ A beautifully animated and interactive **Tic Tac Toe** game which offers to play
 
 ## Future Improvements
 
- **Add support for larger grids (4x4, 5x5, 6x6)**
+- Add support for larger grids (4x4, 5x5, 6x6)
 
- **Implement difficulty levels for Bot**
+- Implement difficulty levels for Bot
 
- **Save game history and scores in LocalStorage**
+- Save game history and scores in LocalStorage
 
- **Add sound toggle switch**
+- Add sound toggle switch
 
- **Responsive mobile layout improvements**
+- Responsive mobile layout improvements
 
- **Dark mode toggle**
+- Dark mode toggle
 
 ---
 
